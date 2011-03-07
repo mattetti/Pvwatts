@@ -1,6 +1,6 @@
 = pvwatts
 
-Description goes here.
+Wrapper around the http://www.nrel.gov/rredc/pvwatts/ web service API which calculates the Performance of a Grid-Connected PV System.
 
 == Contributing to pvwatts
  
@@ -14,6 +14,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2011 Matt Aimonetti. See LICENSE.txt for
+Copyright (c) 2011 Solar Universe, LLC. See LICENSE.txt for
 further details.
 

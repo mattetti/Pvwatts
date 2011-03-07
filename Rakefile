@@ -16,7 +16,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/mattetti/pvwatts"
   gem.license = "MIT"
   gem.summary = %Q{Wrapper around the http://www.nrel.gov/rredc/pvwatts/ web service API.}
-  gem.description = %Q{Calculates the Performance of a Grid-Connected PV System}
+  gem.description = %Q{Calculates the Performance of a Grid-Connected PV System.}
   gem.email = "mattaimonetti@gmail.com"
   gem.authors = ["Matt Aimonetti"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
