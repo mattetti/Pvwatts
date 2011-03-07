@@ -2,6 +2,8 @@
 
 Wrapper around the http://www.nrel.gov/rredc/pvwatts/ web service API which calculates the Performance of a Grid-Connected PV System.
 
+For more information see http://rubydoc.info/gems/pvwatts/
+
 == Contributing to pvwatts
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet

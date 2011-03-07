@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/pvwatts.rb",
+    "pvwatts.gemspec",
     "spec/pvwatts_spec.rb",
     "spec/spec_helper.rb"
   ]
